@@ -1,0 +1,4 @@
+streamlit==1.35.0
+pillow              # for image processing if needed
+numpy               # for math or logic
+pandas              # for data handling (if used in the future)
